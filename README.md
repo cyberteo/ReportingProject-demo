@@ -34,9 +34,13 @@ DELETE /api/patients/{id}: Belirli bir hasta kaydını siler.
 **Laborantlar API Endpoint'leri:**
 
 GET /api/laborants: Tüm laborantları listeler.
+
 POST /api/laborants: Yeni bir laborant ekler.
+
 PUT /api/laborants/{id}: Belirli bir laborant kaydını günceller.
+
 DELETE /api/laborants/{id}: Belirli bir laborant kaydını siler.
+
 
 **Raporlar API Endpoint'leri:**
 
